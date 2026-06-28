@@ -1,0 +1,8 @@
+{
+  "name": "gifx.js",
+  "version": "0.0.1",
+  "description": "Fast modern GIF encoder for the browser",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": "SantianDev"
+}
